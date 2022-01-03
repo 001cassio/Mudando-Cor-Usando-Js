@@ -1,2 +1,3 @@
 # Mudando-Cor-Usando-Js
-Testando funcionalidades com JS
+## Este site e manipulado com JavaScript e sua biblioteca DOOM
+### Simples, porem um começo

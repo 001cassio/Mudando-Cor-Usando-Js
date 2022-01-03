@@ -1,0 +1,38 @@
+.container{
+    padding: 0;
+    margin: 0;
+    height: 70vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.titulo{
+    font-family: serif;
+    font-size: 2em;
+    text-transform: capitalize;
+}
+.botao{
+    font-size: 2em;
+    background-color: #4d4d4d;
+    color: #fff;
+    border-radius: 50%;
+    padding: 1em;
+    text-transform: capitalize;
+}
+.botao-escuro{
+    background-color: #fafafa;
+    color: #000;
+}
+.escuro{
+    background-color: black;
+    color: #fff;
+
+}
+.botao:hover{
+    opacity: 0.5;
+}
+.titulo:hover{
+    opacity: 0.5;
+}
